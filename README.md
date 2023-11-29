@@ -10,4 +10,4 @@ bybit-csvs.py
 kraken-csvs.py
 
 
-DAILY AGGREGATION SCRIPTS:
+Everything else should do what the script is named, feel free to take whatever parts you need. 
